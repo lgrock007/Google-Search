@@ -54,11 +54,12 @@ main{
     position: relative;
 }
 input{
-    box-shadow: 0px 0px 3px grey;
-    width: 400px;
+    box-shadow: 0px 0px 3px rgb(187, 186, 186);
+    outline: none;
+    width: 450px;
     height: 35px;
     border-radius: 20px;
-    border: 1px solid grey;
+    border: 1px solid rgb(207, 207, 207);
     margin-top: 15px;
     padding: 9px 15px;
     font-size: 15px;
